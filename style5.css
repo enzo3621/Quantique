@@ -1,0 +1,46 @@
+*{
+margin: 0.2rem;
+}
+
+.rouge{
+  color: red;
+}
+
+footer{
+  text-align : center;
+background-color: #919191;
+}
+
+header{
+ background-color: #159ecb;
+}
+
+h1{
+text-align: center;
+}
+
+#img-relation img {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 150px;
+}
+
+main{
+  display : flex;
+flex-wrap : wrap;
+flex-basis : 100%;
+}
+
+aside{
+  text-align : center;
+  background-color: #cfc0ab;
+  flex-grow: 1;
+  width: 22%;
+}
+
+article{
+  background-color : #eeeeee;
+justify-content: space-around;
+flex-grow: 3;
+}

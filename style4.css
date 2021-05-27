@@ -1,0 +1,43 @@
+*{
+margin: 0.2rem;
+}
+
+header{
+ background-color: #159ecb;
+}
+
+footer{
+  text-align : center;
+background-color: #919191;
+}
+
+h1{
+  text-align : center;
+text-decoration: underline;
+}
+
+.rouge{
+  color: red;
+}
+
+.positif{
+  flex-basis: 50%;
+  background-color : #33aeb8;
+}
+
+.negatif{
+  flex-basis: 50%;
+  background-color : #f9b900;
+}
+
+section{
+	display: flex;
+}
+
+h2{
+  text-align : center;
+}
+  
+.bleue{
+color:blue;
+}
